@@ -65,6 +65,10 @@ nav {
 
 .scb {
     margin-bottom: 15px;
+    background-color: #645645;
+    border-radius: 12px;
+    color: white;
+
 }
 
 .me{
