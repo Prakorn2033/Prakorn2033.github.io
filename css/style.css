@@ -18,6 +18,7 @@ h1 {
     font-weight: bold;
     color: #FFFFFF;
     margin-bottom: 12px;
+    text-shadow: 5px 5px 2px #00000031;
     
 }
 
@@ -25,11 +26,13 @@ h2 {
     text-align: center;
     font-size: 20px;
     color: #FFFFFF;
+    text-shadow: 5px 5px 2px #00000031;
 }
 
 footer {
     background-color: #302D28;
     height: 10vh;
+    box-shadow: 0px 0px 0px #ffffff, 0px -25px 50px #0000003e;
 
 }
 
@@ -42,6 +45,7 @@ a {
     text-decoration: none;
     font-weight: bold;
     padding: 10px;
+    text-shadow: 5px 5px 2px #00000031;
 }
 
 a:hover{
@@ -57,10 +61,12 @@ nav {
     height: 10vh;
     justify-content: end;
     align-items: center;
+    box-shadow: 0px 25px 50px 0px #0000003e;
 }
 
 .poster {
     width: 80%;
+    margin-bottom: 30px;
 }
 
 .scb {
